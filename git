@@ -1,0 +1,31 @@
+[33mcommit d26c8acc992cef383413d6b56ad341dda12df98c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Глеб Зазимко <aleksndrzazimko2018@gmail.com>
+Date:   Tue Jul 9 20:04:52 2024 +0300
+
+    Update test.txt file
+
+[33mcommit 3129b1f31d310100610f6938efd5d806eae9b2e8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Глеб Зазимко <aleksndrzazimko2018@gmail.com>
+Date:   Tue Jul 9 19:57:16 2024 +0300
+
+    Add .gitignore file
+
+[33mcommit 325b8cede884407c20166040ea79d117938d680b[m
+Author: 3solo <aleksandrzazimko2018@gmail.com>
+Date:   Tue Jul 9 19:32:04 2024 +0300
+
+    Update song.txt
+    
+    add second half of song lyrics
+
+[33mcommit 6536e36d6780002afc42a620ee4df1a7bc7503ed[m
+Author: Глеб Зазимко <aleksndrzazimko2018@gmail.com>
+Date:   Tue Jul 9 19:27:36 2024 +0300
+
+    add first two lines in the song
+
+[33mcommit d204cf21bad0e4947a87e3470347cf4e2551fba6[m
+Author: 3solo <aleksandrzazimko2018@gmail.com>
+Date:   Tue Jul 9 19:17:07 2024 +0300
+
+    Initial commit
